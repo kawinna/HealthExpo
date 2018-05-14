@@ -1,4 +1,3 @@
-# HealthExpo
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
 <head>
@@ -71,7 +70,7 @@
 									 </div>
 									 <h3>
 										Hands & Heart Start 2Gether
-										<br />22 Apr 2018
+										<br />29 Apr 2018
 									</h3>
 						</div>
 					</div>
@@ -93,7 +92,7 @@
 					<div class="col-lg-12 event-dates">
 						<div class="single-event d-flex flex-row">
 							<p class="col">
-								April 22
+								April 22-29
 							</p>
 							<p class="col-8">
 							Hands&Heart Start 2gether
@@ -197,3 +196,4 @@
 		<script src="js/main.js"></script>
 	</body>
 </html>
+
